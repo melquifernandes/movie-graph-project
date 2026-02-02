@@ -64,17 +64,6 @@ O objetivo principal é servir como base para compreender conceitos de
 modelagem em grafos, boas práticas no uso do Neo4j e exploração de dados
 conectados. O repositório também pode ser facilmente expandido para
 cenários como sistemas de recomendação e análise de preferências.
+
+  link do projeto: https://drive.google.com/drive/folders/1TDzjULKOvPQdLRW9nIXRYt1gbU1mwNo_?usp=drive_link 
 </p>
-
-<h2>Público-alvo</h2>
-
-<p>
-Este repositório é indicado para estudantes, profissionais de dados,
-desenvolvedores e qualquer pessoa interessada em aprender ou demonstrar
-conhecimento em bancos de dados em grafo.
-</p>
-
-  }
-};
-
-export default repository;
